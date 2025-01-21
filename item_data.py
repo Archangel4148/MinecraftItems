@@ -32,6 +32,7 @@ def download_item_data_to_file():
 
     with open("data/raw_items.txt", "w") as f:
         f.write(response.text)
+        print("Saved raw item data to \'data/raw_items.txt\'")
 
     with open("data/clean_items.txt", "w") as f:
         for line in response.text.split("\n"):
@@ -48,3 +49,5 @@ def download_item_data_to_file():
 
         # Write the sorted items to the file
         f.write("\n".join(items) + "\n")
+        print("Saved parsed items to \'data/clean_items.txt\'")
+

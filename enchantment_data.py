@@ -41,6 +41,8 @@ def download_enchantment_data_to_file():
 
     with open("data/raw_enchantments.txt", "w", encoding="utf-8") as f:
         f.write(response.text)
+        print("Saved raw enchantment data to \'data/raw_enchantments.txt\'")
+
 
     # Parse the HTML content using BeautifulSoup
     soup = BeautifulSoup(response.text, 'html.parser')
@@ -89,3 +91,5 @@ def download_enchantment_data_to_file():
 
         # Write the sorted enchantments to the file
         f.write("\n".join(enchantments) + "\n")
+        print("Saved parsed enchantments to \'data/clean_enchantments.txt\'")
+
