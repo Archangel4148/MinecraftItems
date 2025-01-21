@@ -947,6 +947,44 @@ Popped Chorus Fruit
 Poppy
 Porkchop
 Potato
+Potion of Fire Resistance
+Potion of Fire Resistance +
+Potion of Harming
+Potion of Harming II
+Potion of Healing
+Potion of Healing II
+Potion of Infestation
+Potion of Invisibility
+Potion of Invisibility +
+Potion of Leaping
+Potion of Leaping +
+Potion of Leaping II
+Potion of Night Vision
+Potion of Night Vision +
+Potion of Oozing
+Potion of Poison
+Potion of Poison +
+Potion of Poison II
+Potion of Regeneration
+Potion of Regeneration +
+Potion of Regeneration II
+Potion of Slow Falling
+Potion of Slow Falling +
+Potion of Slowness
+Potion of Slowness +
+Potion of Slowness IV
+Potion of Strength
+Potion of Strength +
+Potion of Strength II
+Potion of Swiftness
+Potion of Swiftness +
+Potion of Swiftness II
+Potion of Water Breathing
+Potion of Water Breathing +
+Potion of Weakness
+Potion of Weakness +
+Potion of Weaving
+Potion of Wind Charging
 Powder Snow Bucket
 Power I
 Power II
