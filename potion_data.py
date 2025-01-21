@@ -61,7 +61,3 @@ def extract_potion_names(table):
                     potions.append(potion_name + "\n")
 
     return potions
-
-
-# Run the function to download and process the data
-download_potion_data_to_file()
