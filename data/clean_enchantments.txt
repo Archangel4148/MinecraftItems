@@ -1,0 +1,120 @@
+Aqua Affinity I
+Bane of Arthropods I
+Bane of Arthropods II
+Bane of Arthropods III
+Bane of Arthropods IV
+Bane of Arthropods V
+Blast Protection I
+Blast Protection II
+Blast Protection III
+Blast Protection IV
+Breach I
+Breach II
+Breach III
+Breach IV
+Channeling I
+Curse of Binding I
+Curse of Vanishing I
+Depth Strider I
+Depth Strider II
+Depth Strider III
+Efficiency I
+Efficiency II
+Efficiency III
+Efficiency IV
+Efficiency V
+Feather Falling I
+Feather Falling II
+Feather Falling III
+Feather Falling IV
+Fire Aspect I
+Fire Aspect II
+Fire Protection I
+Fire Protection II
+Fire Protection III
+Fire Protection IV
+Flame I
+Fortune I
+Fortune II
+Fortune III
+Frost Walker I
+Frost Walker II
+Impaling I
+Impaling II
+Impaling III
+Impaling IV
+Impaling V
+Infinity I
+Knockback I
+Knockback II
+Looting I
+Looting II
+Looting III
+Loyalty I
+Loyalty II
+Loyalty III
+Luck of the Sea I
+Luck of the Sea II
+Luck of the Sea III
+Lure I
+Lure II
+Lure III
+Mending I
+Multishot I
+Piercing I
+Piercing II
+Piercing III
+Piercing IV
+Power I
+Power II
+Power III
+Power IV
+Power V
+Projectile Protection I
+Projectile Protection II
+Projectile Protection III
+Projectile Protection IV
+Protection I
+Protection II
+Protection III
+Protection IV
+Punch I
+Punch II
+Quick Charge I
+Quick Charge II
+Quick Charge III
+Respiration I
+Respiration II
+Respiration III
+Riptide I
+Riptide II
+Riptide III
+Sharpness I
+Sharpness II
+Sharpness III
+Sharpness IV
+Sharpness V
+Silk Touch I
+Smite I
+Smite II
+Smite III
+Smite IV
+Smite V
+Soul Speed I
+Soul Speed II
+Soul Speed III
+Sweeping Edge I
+Sweeping Edge II
+Sweeping Edge III
+Swift Sneak I
+Swift Sneak II
+Swift Sneak III
+Thorns I
+Thorns II
+Thorns III
+Unbreaking I
+Unbreaking II
+Unbreaking III
+Wind Burst I
+Wind Burst II
+Wind Burst III
