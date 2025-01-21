@@ -7,6 +7,8 @@ INVALID_ITEMS = ["bartering", "enchanted book", "air", "potion"]
 
 def is_valid_item(item_name: str, invalid_items: list[str]):
     for invalid_item in invalid_items:
+        if invalid_item == "air" and "Air" not in item_name:
+            return True
         if invalid_item in item_name.lower():
             return False
     return True
@@ -38,11 +40,14 @@ def download_item_data_to_file():
         for line in response.text.split("\n"):
             stripped_line = line.strip()  # Strip leading/trailing whitespace once
             if stripped_line.startswith("net.minecraft.world.item.Item "):
+
                 if re.match(pattern, line.strip()):
                     item_name = clean_raw_item_text(stripped_line.split(" -> ")[0])
                     if not is_valid_item(item_name, INVALID_ITEMS):
                         continue
                     items.append(item_name)
+                    if "pottery" in item_name.lower():
+                        items.append(item_name.replace(" Pottery Sherd", " Decorated Pot"))
 
         # Sort the items alphabetically
         items.sort()
@@ -50,4 +55,3 @@ def download_item_data_to_file():
         # Write the sorted items to the file
         f.write("\n".join(items) + "\n")
         print("Saved parsed items to \'data/clean_items.txt\'")
-

@@ -15,6 +15,11 @@ Breach IV
 Channeling I
 Curse of Binding I
 Curse of Vanishing I
+Density I
+Density II
+Density III
+Density IV
+Density V
 Depth Strider I
 Depth Strider II
 Depth Strider III

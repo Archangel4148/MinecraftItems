@@ -1,6 +1,6 @@
 Acacia Boat
+Acacia Boat with Chest
 Acacia Button
-Acacia Chest Boat
 Acacia Door
 Acacia Fence
 Acacia Fence Gate
@@ -16,9 +16,7 @@ Acacia Stairs
 Acacia Trapdoor
 Acacia Wood
 Activator Rail
-Allay Spawn Egg
 Allium
-Amethyst Block
 Amethyst Cluster
 Amethyst Shard
 Ancient Debris
@@ -26,28 +24,59 @@ Andesite
 Andesite Slab
 Andesite Stairs
 Andesite Wall
-Angler Decorated Pot
-Angler Pottery Sherd
 Anvil
 Apple
-Archer Decorated Pot
-Archer Pottery Sherd
 Armadillo Scute
-Armadillo Spawn Egg
 Armor Stand
-Arms Up Decorated Pot
-Arms Up Pottery Sherd
 Arrow
-Axolotl Bucket
-Axolotl Spawn Egg
+Arrow of Fire Resistance
+Arrow of Fire Resistance +
+Arrow of Harming
+Arrow of Harming II
+Arrow of Healing
+Arrow of Healing II
+Arrow of Infestation
+Arrow of Invisibility
+Arrow of Invisibility +
+Arrow of Leaping
+Arrow of Leaping +
+Arrow of Leaping II
+Arrow of Night Vision
+Arrow of Night Vision +
+Arrow of Oozing
+Arrow of Poison
+Arrow of Poison +
+Arrow of Poison II
+Arrow of Regeneration
+Arrow of Regeneration +
+Arrow of Regenration II
+Arrow of Slow Falling [JE]
+Arrow of Slow Falling + [JE]
+Arrow of Slowness
+Arrow of Slowness +
+Arrow of Slowness IV
+Arrow of Splashing
+Arrow of Strength
+Arrow of Strength +
+Arrow of Strength II
+Arrow of Swiftness
+Arrow of Swiftness +
+Arrow of Swiftness II
+Arrow of the Turtle Master
+Arrow of the Turtle Master +
+Arrow of the Turtle Master II
+Arrow of Water Breathing
+Arrow of Water Breathing +
+Arrow of Weakness
+Arrow of Weakness +
+Arrow of Weaving
+Arrow of Wind Charging
 Azalea
 Azalea Leaves
 Azure Bluet
 Baked Potato
 Bamboo
-Bamboo Block
 Bamboo Button
-Bamboo Chest Raft
 Bamboo Door
 Bamboo Fence
 Bamboo Fence Gate
@@ -58,19 +87,23 @@ Bamboo Mosaic Stairs
 Bamboo Planks
 Bamboo Pressure Plate
 Bamboo Raft
+Bamboo Raft with Chest
 Bamboo Sign
 Bamboo Slab
 Bamboo Stairs
 Bamboo Trapdoor
+Banner Pattern (Creeper Charge)
+Banner Pattern (Flow)
+Banner Pattern (Flower Charge)
+Banner Pattern (Globe)
+Banner Pattern (Gust)
+Banner Pattern (Skull Charge)
+Banner Pattern (Snout)
+Banner Pattern (Thing)
 Barrel
-Barrier
 Basalt
-Bat Spawn Egg
 Beacon
-Bedrock
 Bee Nest
-Bee Spawn Egg
-Beef
 Beehive
 Beetroot
 Beetroot Seeds
@@ -78,8 +111,8 @@ Beetroot Soup
 Bell
 Big Dripleaf
 Birch Boat
+Birch Boat with Chest
 Birch Button
-Birch Chest Boat
 Birch Door
 Birch Fence
 Birch Fence Gate
@@ -96,6 +129,7 @@ Birch Trapdoor
 Birch Wood
 Black Banner
 Black Bed
+Black Bundle
 Black Candle
 Black Carpet
 Black Concrete
@@ -111,14 +145,29 @@ Blackstone
 Blackstone Slab
 Blackstone Stairs
 Blackstone Wall
-Blade Decorated Pot
-Blade Pottery Sherd
 Blast Furnace
 Blaze Powder
 Blaze Rod
-Blaze Spawn Egg
+Block of Amethyst
+Block of Bamboo
+Block of Coal
+Block of Copper
+Block of Diamond
+Block of Emerald
+Block of Gold
+Block of Iron
+Block of Lapis Lazuli
+Block of Netherite
+Block of Quartz
+Block of Raw Copper
+Block of Raw Gold
+Block of Raw Iron
+Block of Redstone
+Block of Resin
+Block of Stripped Bamboo
 Blue Banner
 Blue Bed
+Blue Bundle
 Blue Candle
 Blue Carpet
 Blue Concrete
@@ -132,13 +181,13 @@ Blue Stained Glass
 Blue Stained Glass Pane
 Blue Terracotta
 Blue Wool
-Bogged Spawn Egg
-Bolt Armor Trim Smithing Template
 Bone
 Bone Block
 Bone Meal
 Book
+Book and Quill
 Bookshelf
+Bottle o' Enchanting
 Bow
 Bowl
 Brain Coral
@@ -146,9 +195,6 @@ Brain Coral Block
 Brain Coral Fan
 Bread
 Breeze Rod
-Breeze Spawn Egg
-Brewer Decorated Pot
-Brewer Pottery Sherd
 Brewing Stand
 Brick
 Brick Slab
@@ -157,6 +203,7 @@ Brick Wall
 Bricks
 Brown Banner
 Brown Bed
+Brown Bundle
 Brown Candle
 Brown Carpet
 Brown Concrete
@@ -175,34 +222,34 @@ Bubble Coral
 Bubble Coral Block
 Bubble Coral Fan
 Bucket
-Budding Amethyst
+Bucket of Axolotl
+Bucket of Cod
+Bucket of Pufferfish
+Bucket of Salmon
+Bucket of Tadpole
+Bucket of Tropical Fish
 Bundle
-Burn Decorated Pot
-Burn Pottery Sherd
+Buried Treasure Map 
 Cactus
 Cake
 Calcite
 Calibrated Sculk Sensor
-Camel Spawn Egg
 Campfire
 Candle
 Carrot
-Carrot On A Stick
+Carrot on a Stick
 Cartography Table
 Carved Pumpkin
-Cat Spawn Egg
 Cauldron
-Cave Spider Spawn Egg
 Chain
-Chain Command Block
 Chainmail Boots
 Chainmail Chestplate
 Chainmail Helmet
 Chainmail Leggings
 Charcoal
 Cherry Boat
+Cherry Boat with Chest
 Cherry Button
-Cherry Chest Boat
 Cherry Door
 Cherry Fence
 Cherry Fence Gate
@@ -218,9 +265,6 @@ Cherry Stairs
 Cherry Trapdoor
 Cherry Wood
 Chest
-Chest Minecart
-Chicken
-Chicken Spawn Egg
 Chipped Anvil
 Chiseled Bookshelf
 Chiseled Copper
@@ -229,21 +273,20 @@ Chiseled Nether Bricks
 Chiseled Polished Blackstone
 Chiseled Quartz Block
 Chiseled Red Sandstone
+Chiseled Resin Bricks
 Chiseled Sandstone
 Chiseled Stone Bricks
 Chiseled Tuff
 Chiseled Tuff Bricks
 Chorus Flower
 Chorus Fruit
-Chorus Plant
 Clay
 Clay Ball
 Clock
+Closed Eyeblossom
 Coal
-Coal Block
 Coal Ore
 Coarse Dirt
-Coast Armor Trim Smithing Template
 Cobbled Deepslate
 Cobbled Deepslate Slab
 Cobbled Deepslate Stairs
@@ -254,16 +297,9 @@ Cobblestone Stairs
 Cobblestone Wall
 Cobweb
 Cocoa Beans
-Cod
-Cod Bucket
-Cod Spawn Egg
-Command Block
-Command Block Minecart
-Comparator
 Compass
 Composter
 Conduit
-Cooked Beef
 Cooked Chicken
 Cooked Cod
 Cooked Mutton
@@ -271,7 +307,6 @@ Cooked Porkchop
 Cooked Rabbit
 Cooked Salmon
 Cookie
-Copper Block
 Copper Bulb
 Copper Door
 Copper Grate
@@ -279,7 +314,6 @@ Copper Ingot
 Copper Ore
 Copper Trapdoor
 Cornflower
-Cow Spawn Egg
 Cracked Deepslate Bricks
 Cracked Deepslate Tiles
 Cracked Nether Bricks
@@ -287,9 +321,8 @@ Cracked Polished Blackstone Bricks
 Cracked Stone Bricks
 Crafter
 Crafting Table
-Creeper Banner Pattern
+Creaking Heart
 Creeper Head
-Creeper Spawn Egg
 Crimson Button
 Crimson Door
 Crimson Fence
@@ -314,9 +347,10 @@ Cut Copper Stairs
 Cut Red Sandstone
 Cut Red Sandstone Slab
 Cut Sandstone
-Cut Standstone Slab
+Cut Sandstone Slab
 Cyan Banner
 Cyan Bed
+Cyan Bundle
 Cyan Candle
 Cyan Carpet
 Cyan Concrete
@@ -330,11 +364,9 @@ Cyan Terracotta
 Cyan Wool
 Damaged Anvil
 Dandelion
-Danger Decorated Pot
-Danger Pottery Sherd
 Dark Oak Boat
+Dark Oak Boat with Chest
 Dark Oak Button
-Dark Oak Chest Boat
 Dark Oak Door
 Dark Oak Fence
 Dark Oak Fence Gate
@@ -369,8 +401,6 @@ Dead Horn Coral Fan
 Dead Tube Coral
 Dead Tube Coral Block
 Dead Tube Coral Fan
-Debug Stick
-Decorated Pot
 Deepslate
 Deepslate Brick Slab
 Deepslate Brick Stairs
@@ -382,7 +412,7 @@ Deepslate Diamond Ore
 Deepslate Emerald Ore
 Deepslate Gold Ore
 Deepslate Iron Ore
-Deepslate Lapis Ore
+Deepslate Lapis Lazuli Ore
 Deepslate Redstone Ore
 Deepslate Tile Slab
 Deepslate Tile Stairs
@@ -391,7 +421,6 @@ Deepslate Tiles
 Detector Rail
 Diamond
 Diamond Axe
-Diamond Block
 Diamond Boots
 Diamond Chestplate
 Diamond Helmet
@@ -407,30 +436,24 @@ Diorite Slab
 Diorite Stairs
 Diorite Wall
 Dirt
-Dirt Path
+Disc Fragment
 Dispenser
-Dolphin Spawn Egg
-Donkey Spawn Egg
-Dragon Breath
 Dragon Egg
 Dragon Head
+Dragon's Breath
 Dried Kelp
 Dried Kelp Block
 Dripstone Block
 Dropper
-Drowned Spawn Egg
-Dune Armor Trim Smithing Template
 Echo Shard
 Egg
-Elder Guardian Spawn Egg
 Elytra
 Emerald
-Emerald Block
 Emerald Ore
+Empty Map
 Enchanted Golden Apple
 Enchanting Table
 End Crystal
-End Portal Frame
 End Rod
 End Stone
 End Stone Brick Slab
@@ -438,15 +461,7 @@ End Stone Brick Stairs
 End Stone Brick Wall
 End Stone Bricks
 Ender Chest
-Ender Dragon Spawn Egg
-Ender Eye
 Ender Pearl
-Enderman Spawn Egg
-Endermite Spawn Egg
-Evoker Spawn Egg
-Experience Bottle
-Explorer Decorated Pot
-Explorer Pottery Sherd
 Exposed Chiseled Copper
 Exposed Copper
 Exposed Copper Bulb
@@ -456,55 +471,69 @@ Exposed Copper Trapdoor
 Exposed Cut Copper
 Exposed Cut Copper Slab
 Exposed Cut Copper Stairs
-Eye Armor Trim Smithing Template
-Farmland
+Eye of Ender
 Feather
 Fermented Spider Eye
 Fern
-Filled Map
 Fire Charge
 Fire Coral
 Fire Coral Block
 Fire Coral Fan
 Firework Rocket
+Firework Rocket Black
+Firework Rocket Blue
+Firework Rocket Brown
+Firework Rocket Cyan
+Firework Rocket Gray
+Firework Rocket Green
+Firework Rocket Light Blue
+Firework Rocket Light Gray
+Firework Rocket Lime
+Firework Rocket Magenta
+Firework Rocket Orange
+Firework Rocket Pink
+Firework Rocket Purple
+Firework Rocket Red
+Firework Rocket White
+Firework Rocket Yellow
 Firework Star
+Firework Star Black
+Firework Star Blue
+Firework Star Brown
+Firework Star Cyan
+Firework Star Gray
+Firework Star Green
+Firework Star Light Blue
+Firework Star Light Gray
+Firework Star Lime
+Firework Star Magenta
+Firework Star Orange
+Firework Star Pink
+Firework Star Purple
+Firework Star Red
+Firework Star White
+Firework Star Yellow
 Fishing Rod
 Fletching Table
 Flint
-Flint And Steel
-Flow Armor Trim Smithing Template
-Flow Banner Pattern
-Flow Decorated Pot
-Flow Pottery Sherd
-Flower Banner Pattern
+Flint and Steel
 Flower Pot
 Flowering Azalea
 Flowering Azalea Leaves
-Fox Spawn Egg
-Friend Decorated Pot
-Friend Pottery Sherd
-Frog Spawn Egg
-Frogspawn
 Furnace
-Furnace Minecart
-Ghast Spawn Egg
 Ghast Tear
 Gilded Blackstone
 Glass
 Glass Bottle
 Glass Pane
 Glistering Melon Slice
-Globe Banner Pattern
 Glow Berries
 Glow Ink Sac
 Glow Item Frame
 Glow Lichen
-Glow Squid Spawn Egg
 Glowstone
 Glowstone Dust
 Goat Horn
-Goat Spawn Egg
-Gold Block
 Gold Ingot
 Gold Nugget
 Gold Ore
@@ -528,6 +557,7 @@ Grass Block
 Gravel
 Gray Banner
 Gray Bed
+Gray Bundle
 Gray Candle
 Gray Carpet
 Gray Concrete
@@ -541,6 +571,7 @@ Gray Terracotta
 Gray Wool
 Green Banner
 Green Bed
+Green Bundle
 Green Candle
 Green Carpet
 Green Concrete
@@ -553,51 +584,27 @@ Green Stained Glass Pane
 Green Terracotta
 Green Wool
 Grindstone
-Guardian Spawn Egg
 Gunpowder
-Guster Banner Pattern
-Guster Decorated Pot
-Guster Pottery Sherd
 Hanging Roots
-Hay Block
-Heart Decorated Pot
-Heart Of The Sea
-Heart Pottery Sherd
-Heartbreak Decorated Pot
-Heartbreak Pottery Sherd
+Hay Bale
+Heart of the Sea
 Heavy Core
 Heavy Weighted Pressure Plate
-Hoglin Spawn Egg
 Honey Block
 Honey Bottle
 Honeycomb
 Honeycomb Block
 Hopper
-Hopper Minecart
 Horn Coral
 Horn Coral Block
 Horn Coral Fan
-Horse Spawn Egg
-Host Armor Trim Smithing Template
-Howl Decorated Pot
-Howl Pottery Sherd
-Husk Spawn Egg
 Ice
-Infested Chiseled Stone Bricks
-Infested Cobblestone
-Infested Cracked Stone Bricks
-Infested Deepslate
-Infested Mossy Stone Bricks
-Infested Stone
-Infested Stone Bricks
 Ink Sac
 Iron Axe
 Iron Bars
-Iron Block
 Iron Boots
 Iron Chestplate
 Iron Door
-Iron Golem Spawn Egg
 Iron Helmet
 Iron Hoe
 Iron Horse Armor
@@ -610,12 +617,11 @@ Iron Shovel
 Iron Sword
 Iron Trapdoor
 Item Frame
-Jack O Lantern
-Jigsaw
+Jack o'Lantern
 Jukebox
 Jungle Boat
+Jungle Boat with Chest
 Jungle Button
-Jungle Chest Boat
 Jungle Door
 Jungle Fence
 Jungle Fence Gate
@@ -631,27 +637,25 @@ Jungle Stairs
 Jungle Trapdoor
 Jungle Wood
 Kelp
-Knowledge Book
 Ladder
 Lantern
-Lapis Block
 Lapis Lazuli
-Lapis Ore
+Lapis Lazuli Ore
 Large Amethyst Bud
 Large Fern
 Lava Bucket
 Lead
 Leather
 Leather Boots
-Leather Chestplate
-Leather Helmet
+Leather Cap
 Leather Horse Armor
-Leather Leggings
+Leather Pants
+Leather Tunic
 Lectern
 Lever
-Light
 Light Blue Banner
 Light Blue Bed
+Light Blue Bundle
 Light Blue Candle
 Light Blue Carpet
 Light Blue Concrete
@@ -665,6 +669,7 @@ Light Blue Terracotta
 Light Blue Wool
 Light Gray Banner
 Light Gray Bed
+Light Gray Bundle
 Light Gray Candle
 Light Gray Carpet
 Light Gray Concrete
@@ -679,10 +684,11 @@ Light Gray Wool
 Light Weighted Pressure Plate
 Lightning Rod
 Lilac
-Lily Of The Valley
+Lily of the Valley
 Lily Pad
 Lime Banner
 Lime Bed
+Lime Bundle
 Lime Candle
 Lime Carpet
 Lime Concrete
@@ -694,13 +700,13 @@ Lime Stained Glass
 Lime Stained Glass Pane
 Lime Terracotta
 Lime Wool
-Lingering Potion
-Llama Spawn Egg
 Lodestone
+Lodestone Compass
 Loom
 Mace
 Magenta Banner
 Magenta Bed
+Magenta Bundle
 Magenta Candle
 Magenta Carpet
 Magenta Concrete
@@ -714,10 +720,9 @@ Magenta Terracotta
 Magenta Wool
 Magma Block
 Magma Cream
-Magma Cube Spawn Egg
 Mangrove Boat
+Mangrove Boat with Chest
 Mangrove Button
-Mangrove Chest Boat
 Mangrove Door
 Mangrove Fence
 Mangrove Fence Gate
@@ -740,10 +745,10 @@ Melon Seeds
 Melon Slice
 Milk Bucket
 Minecart
-Miner Decorated Pot
-Miner Pottery Sherd
-Mojang Banner Pattern
-Mooshroom Spawn Egg
+Minecart with Chest
+Minecart with Furnace‌[JE]
+Minecart with Hopper
+Minecart with TNT
 Moss Block
 Moss Carpet
 Mossy Cobblestone
@@ -754,34 +759,33 @@ Mossy Stone Brick Slab
 Mossy Stone Brick Stairs
 Mossy Stone Brick Wall
 Mossy Stone Bricks
-Mourner Decorated Pot
-Mourner Pottery Sherd
 Mud
 Mud Brick Slab
 Mud Brick Stairs
 Mud Brick Wall
 Mud Bricks
 Muddy Mangrove Roots
-Mule Spawn Egg
 Mushroom Stem
 Mushroom Stew
-Music Disc Blocks
-Music Disc Cat
-Music Disc Chirp
-Music Disc Creator
-Music Disc Creator Music Box
-Music Disc Far
-Music Disc Mall
-Music Disc Mellohi
-Music Disc Otherside
-Music Disc Pigstep
-Music Disc Precipice
-Music Disc Relic
-Music Disc Stal
-Music Disc Strad
-Music Disc Wait
-Music Disc Ward
-Mutton
+Music Disc (11)
+Music Disc (13)
+Music Disc (5)
+Music Disc (Blocks)
+Music Disc (Cat)
+Music Disc (Chirp)
+Music Disc (Creator Music Box)
+Music Disc (Creator)
+Music Disc (Far)
+Music Disc (Mall)
+Music Disc (Mellohi)
+Music Disc (Otherside)
+Music Disc (Pigstep)
+Music Disc (Precipe)
+Music Disc (Relic)
+Music Disc (Stal)
+Music Disc (Strad)
+Music Disc (Wait)
+Music Disc (Ward)
 Mycelium
 Name Tag
 Nautilus Shell
@@ -792,13 +796,13 @@ Nether Brick Stairs
 Nether Brick Wall
 Nether Bricks
 Nether Gold Ore
+Nether Quartz
 Nether Quartz Ore
 Nether Sprouts
 Nether Star
 Nether Wart
 Nether Wart Block
 Netherite Axe
-Netherite Block
 Netherite Boots
 Netherite Chestplate
 Netherite Helmet
@@ -809,12 +813,11 @@ Netherite Pickaxe
 Netherite Scrap
 Netherite Shovel
 Netherite Sword
-Netherite Upgrade Smithing Template
 Netherrack
 Note Block
 Oak Boat
+Oak Boat with Chest
 Oak Button
-Oak Chest Boat
 Oak Door
 Oak Fence
 Oak Fence Gate
@@ -831,12 +834,14 @@ Oak Trapdoor
 Oak Wood
 Observer
 Obsidian
-Ocelot Spawn Egg
+Ocean Explorer Map
 Ochre Froglight
-Ominous Bottle
+Ominous Banner[JE]
 Ominous Trial Key
+Open Eyeblossom
 Orange Banner
 Orange Bed
+Orange Bundle
 Orange Candle
 Orange Carpet
 Orange Concrete
@@ -862,22 +867,35 @@ Oxidized Cut Copper Stairs
 Packed Ice
 Packed Mud
 Painting
-Panda Spawn Egg
+Pale Hanging Moss
+Pale Moss Block
+Pale Moss Carpet
+Pale Oak Boat
+Pale Oak Boat with Chest
+Pale Oak Button
+Pale Oak Door
+Pale Oak Fence
+Pale Oak Fence Gate
+Pale Oak Hanging Sign
+Pale Oak Leaves
+Pale Oak Log
+Pale Oak Planks
+Pale Oak Pressure Plate
+Pale Oak Sapling
+Pale Oak Sign
+Pale Oak Slab
+Pale Oak Stairs
+Pale Oak Trapdoor
+Pale Oak Wood
 Paper
-Parrot Spawn Egg
 Pearlescent Froglight
 Peony
 Petrified Oak Slab
 Phantom Membrane
-Phantom Spawn Egg
-Pig Spawn Egg
-Piglin Banner Pattern
-Piglin Brute Spawn Egg
 Piglin Head
-Piglin Spawn Egg
-Pillager Spawn Egg
 Pink Banner
 Pink Bed
+Pink Bundle
 Pink Candle
 Pink Carpet
 Pink Concrete
@@ -894,13 +912,9 @@ Pink Wool
 Piston
 Pitcher Plant
 Pitcher Pod
-Player Head
-Plenty Decorated Pot
-Plenty Pottery Sherd
 Podzol
 Pointed Dripstone
 Poisonous Potato
-Polar Bear Spawn Egg
 Polished Andesite
 Polished Andesite Slab
 Polished Andesite Stairs
@@ -931,9 +945,7 @@ Polished Tuff Stairs
 Polished Tuff Wall
 Popped Chorus Fruit
 Poppy
-Porkchop
 Potato
-Potion
 Powder Snow Bucket
 Powered Rail
 Prismarine
@@ -945,16 +957,13 @@ Prismarine Shard
 Prismarine Slab
 Prismarine Stairs
 Prismarine Wall
-Prize Decorated Pot
-Prize Pottery Sherd
 Pufferfish
-Pufferfish Bucket
-Pufferfish Spawn Egg
 Pumpkin
 Pumpkin Pie
 Pumpkin Seeds
 Purple Banner
 Purple Bed
+Purple Bundle
 Purple Candle
 Purple Carpet
 Purple Concrete
@@ -970,29 +979,28 @@ Purpur Block
 Purpur Pillar
 Purpur Slab
 Purpur Stairs
-Quartz
-Quartz Block
 Quartz Bricks
 Quartz Pillar
 Quartz Slab
 Quartz Stairs
-Rabbit
-Rabbit Foot
 Rabbit Hide
-Rabbit Spawn Egg
 Rabbit Stew
+Rabbit's Foot
 Rail
-Raiser Armor Trim Smithing Template
-Ravager Spawn Egg
+Raw Beef
+Raw Chicken
+Raw Cod
 Raw Copper
-Raw Copper Block
 Raw Gold
-Raw Gold Block
 Raw Iron
-Raw Iron Block
+Raw Mutton
+Raw Porkchop
+Raw Rabbit
+Raw Salmon
 Recovery Compass
 Red Banner
 Red Bed
+Red Bundle
 Red Candle
 Red Carpet
 Red Concrete
@@ -1016,31 +1024,29 @@ Red Stained Glass Pane
 Red Terracotta
 Red Tulip
 Red Wool
-Redstone
-Redstone Block
+Redstone Comparator
+Redstone Dust
 Redstone Lamp
 Redstone Ore
+Redstone Repeater
 Redstone Torch
-Reinforced Deepslate
-Repeater
-Repeating Command Block
+Resin Brick
+Resin Brick Slabs
+Resin Brick Stairs
+Resin Brick Wall
+Resin Bricks
+Resin Clump
 Respawn Anchor
-Rib Armor Trim Smithing Template
 Rooted Dirt
 Rose Bush
 Rotten Flesh
 Saddle
-Salmon
-Salmon Bucket
-Salmon Spawn Egg
 Sand
 Sandstone
 Sandstone Slab
 Sandstone Stairs
 Sandstone Wall
 Scaffolding
-Scrape Decorated Pot
-Scrape Pottery Sherd
 Sculk
 Sculk Catalyst
 Sculk Sensor
@@ -1049,37 +1055,21 @@ Sculk Vein
 Sea Lantern
 Sea Pickle
 Seagrass
-Sentry Armor Trim Smithing Template
-Shaper Armor Trim Smithing Template
-Sheaf Decorated Pot
-Sheaf Pottery Sherd
 Shears
-Sheep Spawn Egg
-Shelter Decorated Pot
-Shelter Pottery Sherd
 Shield
-Short Grass
+Short Grass (Grass)
 Shroomlight
 Shulker Box
 Shulker Shell
-Shulker Spawn Egg
-Silence Armor Trim Smithing Template
-Silverfish Spawn Egg
-Skeleton Horse Spawn Egg
 Skeleton Skull
-Skeleton Spawn Egg
-Skull Banner Pattern
-Skull Decorated Pot
-Skull Pottery Sherd
-Slime Ball
 Slime Block
-Slime Spawn Egg
+Slimeball
 Small Amethyst Bud
 Small Dripleaf
 Smithing Table
 Smoker
 Smooth Basalt
-Smooth Quartz
+Smooth Quartz Block
 Smooth Quartz Slab
 Smooth Quartz Stairs
 Smooth Red Sandstone
@@ -1091,30 +1081,21 @@ Smooth Sandstone Stairs
 Smooth Stone
 Smooth Stone Slab
 Sniffer Egg
-Sniffer Spawn Egg
-Snort Decorated Pot
-Snort Pottery Sherd
-Snout Armor Trim Smithing Template
 Snow
 Snow Block
-Snow Golem Spawn Egg
 Snowball
 Soul Campfire
 Soul Lantern
 Soul Sand
 Soul Soil
 Soul Torch
-Spawner
-Spectral Arrow
+Spectral Arrow‌ [JE]
 Spider Eye
-Spider Spawn Egg
-Spire Armor Trim Smithing Template
-Splash Potion
 Sponge
 Spore Blossom
 Spruce Boat
+Spruce Boat with Chest
 Spruce Button
-Spruce Chest Boat
 Spruce Door
 Spruce Fence
 Spruce Fence Gate
@@ -1130,7 +1111,7 @@ Spruce Stairs
 Spruce Trapdoor
 Spruce Wood
 Spyglass
-Squid Spawn Egg
+Steak[JE]
 Stick
 Sticky Piston
 Stone
@@ -1148,12 +1129,9 @@ Stone Slab
 Stone Stairs
 Stone Sword
 Stonecutter
-Stray Spawn Egg
-Strider Spawn Egg
 String
 Stripped Acacia Log
 Stripped Acacia Wood
-Stripped Bamboo Block
 Stripped Birch Log
 Stripped Birch Wood
 Stripped Cherry Log
@@ -1168,42 +1146,36 @@ Stripped Mangrove Log
 Stripped Mangrove Wood
 Stripped Oak Log
 Stripped Oak Wood
+Stripped Pale Oak Log
+Stripped Pale Oak Wood
 Stripped Spruce Log
 Stripped Spruce Wood
 Stripped Warped Hyphae
 Stripped Warped Stem
-Structure Block
-Structure Void
 Sugar
 Sugar Cane
 Sunflower
-Suspicious Gravel
-Suspicious Sand
 Suspicious Stew
 Sweet Berries
-Tadpole Bucket
-Tadpole Spawn Egg
 Tall Grass
 Target
 Terracotta
-Tide Armor Trim Smithing Template
 Tinted Glass
 Tipped Arrow
-Tnt
-Tnt Minecart
+Tipped Arrow (Awkward)
+Tipped Arrow (Mundane)
+Tipped Arrow (Thick)
+TNT
 Torch
 Torchflower
 Torchflower Seeds
-Totem Of Undying
-Trader Llama Spawn Egg
+Totem of Undying
 Trapped Chest
+Trial Chambers Map
 Trial Key
-Trial Spawner
 Trident
 Tripwire Hook
 Tropical Fish
-Tropical Fish Bucket
-Tropical Fish Spawn Egg
 Tube Coral
 Tube Coral Block
 Tube Coral Fan
@@ -1216,26 +1188,17 @@ Tuff Slab
 Tuff Stairs
 Tuff Wall
 Turtle Egg
-Turtle Helmet
 Turtle Scute
-Turtle Spawn Egg
+Turtle Shell
 Twisting Vines
-Vault
 Verdant Froglight
-Vex Armor Trim Smithing Template
-Vex Spawn Egg
-Villager Spawn Egg
-Vindicator Spawn Egg
-Vine
-Wandering Trader Spawn Egg
-Ward Armor Trim Smithing Template
-Warden Spawn Egg
+Vines
 Warped Button
 Warped Door
 Warped Fence
 Warped Fence Gate
 Warped Fungus
-Warped Fungus On A Stick
+Warped Fungus on a Stick
 Warped Hanging Sign
 Warped Hyphae
 Warped Nylium
@@ -1249,8 +1212,8 @@ Warped Stem
 Warped Trapdoor
 Warped Wart Block
 Water Bucket
+Waxed Block of Copper
 Waxed Chiseled Copper
-Waxed Copper Block
 Waxed Copper Bulb
 Waxed Copper Door
 Waxed Copper Grate
@@ -1285,7 +1248,6 @@ Waxed Weathered Copper Trapdoor
 Waxed Weathered Cut Copper
 Waxed Weathered Cut Copper Slab
 Waxed Weathered Cut Copper Stairs
-Wayfinder Armor Trim Smithing Template
 Weathered Chiseled Copper
 Weathered Copper
 Weathered Copper Bulb
@@ -1301,6 +1263,7 @@ Wheat
 Wheat Seeds
 White Banner
 White Bed
+White Bundle
 White Candle
 White Carpet
 White Concrete
@@ -1313,24 +1276,20 @@ White Stained Glass Pane
 White Terracotta
 White Tulip
 White Wool
-Wild Armor Trim Smithing Template
 Wind Charge
-Witch Spawn Egg
 Wither Rose
 Wither Skeleton Skull
-Wither Skeleton Spawn Egg
-Wither Spawn Egg
 Wolf Armor
-Wolf Spawn Egg
 Wooden Axe
 Wooden Hoe
 Wooden Pickaxe
 Wooden Shovel
 Wooden Sword
-Writable Book
+Woodland Explorer Map
 Written Book
 Yellow Banner
 Yellow Bed
+Yellow Bundle
 Yellow Candle
 Yellow Carpet
 Yellow Concrete
@@ -1342,9 +1301,4 @@ Yellow Stained Glass
 Yellow Stained Glass Pane
 Yellow Terracotta
 Yellow Wool
-Zoglin Spawn Egg
 Zombie Head
-Zombie Horse Spawn Egg
-Zombie Spawn Egg
-Zombie Villager Spawn Egg
-Zombified Piglin Spawn Egg

@@ -3,6 +3,10 @@ import re
 import requests
 from bs4 import BeautifulSoup
 
+override_max_levels = {
+    "Density": 5,
+}
+
 
 def to_roman(num):
     roman_numerals = {
@@ -43,7 +47,6 @@ def download_enchantment_data_to_file():
         f.write(response.text)
         print("Saved raw enchantment data to \'data/raw_enchantments.txt\'")
 
-
     # Parse the HTML content using BeautifulSoup
     soup = BeautifulSoup(response.text, 'html.parser')
 
@@ -73,13 +76,16 @@ def download_enchantment_data_to_file():
                 # Clean the enchantment name (remove unwanted text like Java Edition only, upcoming, etc.)
                 enchantment_name = clean_enchantment_name(enchantment_name)
 
-                # Clean the max_level_text and extract the numerical part
-                cleaned_max_level = re.sub(r"[^\d]", "", max_level_text)  # Keep only digits
-
-                if cleaned_max_level.isdigit():
-                    max_enchantment_level = int(cleaned_max_level)  # Convert to integer
+                if enchantment_name in override_max_levels:
+                    max_enchantment_level = override_max_levels[enchantment_name]
                 else:
-                    max_enchantment_level = 0  # If it can't be cleaned, set to 0
+                    # Clean the max_level_text and extract the numerical part
+                    cleaned_max_level = re.sub(r"[^\d]", "", max_level_text)  # Keep only digits
+
+                    if cleaned_max_level.isdigit():
+                        max_enchantment_level = int(cleaned_max_level)  # Convert to integer
+                    else:
+                        max_enchantment_level = 0  # If it can't be cleaned, set to 0
 
                 # Generate all possible enchantment levels using Roman numerals
                 for level in range(1, max_enchantment_level + 1):
@@ -92,4 +98,3 @@ def download_enchantment_data_to_file():
         # Write the sorted enchantments to the file
         f.write("\n".join(enchantments) + "\n")
         print("Saved parsed enchantments to \'data/clean_enchantments.txt\'")
-

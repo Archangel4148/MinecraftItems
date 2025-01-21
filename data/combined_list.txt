@@ -12,6 +12,7 @@ Acacia Pressure Plate
 Acacia Sapling
 Acacia Sign
 Acacia Slab
+Acacia Stairs
 Acacia Trapdoor
 Acacia Wood
 Activator Rail
@@ -23,17 +24,64 @@ Amethyst Shard
 Ancient Debris
 Andesite
 Andesite Slab
+Andesite Stairs
 Andesite Wall
+Angler Decorated Pot
 Angler Pottery Sherd
 Anvil
 Apple
 Aqua Affinity I
+Archer Decorated Pot
 Archer Pottery Sherd
 Armadillo Scute
 Armadillo Spawn Egg
 Armor Stand
+Arms Up Decorated Pot
 Arms Up Pottery Sherd
 Arrow
+Arrow of Fire Resistance
+Arrow of Fire Resistance +
+Arrow of Harming
+Arrow of Harming II
+Arrow of Healing
+Arrow of Healing II
+Arrow of Infestation
+Arrow of Invisibility
+Arrow of Invisibility +
+Arrow of Leaping
+Arrow of Leaping +
+Arrow of Leaping II
+Arrow of Night Vision
+Arrow of Night Vision +
+Arrow of Oozing
+Arrow of Poison
+Arrow of Poison +
+Arrow of Poison II
+Arrow of Regeneration
+Arrow of Regeneration +
+Arrow of Regeneration II
+Arrow of Slow Falling
+Arrow of Slow Falling +
+Arrow of Slowness
+Arrow of Slowness +
+Arrow of Slowness IV
+Arrow of Strength
+Arrow of Strength +
+Arrow of Strength II
+Arrow of Swiftness
+Arrow of Swiftness +
+Arrow of Swiftness II
+Arrow of Water Breathing
+Arrow of Water Breathing +
+Arrow of Weakness
+Arrow of Weakness +
+Arrow of Weaving
+Arrow of Wind Charging
+Arrow of the Turtle Master
+Arrow of the Turtle Master +
+Arrow of the Turtle Master II
+Awkward Arrow
+Awkward Potion
 Axolotl Bucket
 Axolotl Spawn Egg
 Azalea
@@ -50,11 +98,13 @@ Bamboo Fence Gate
 Bamboo Hanging Sign
 Bamboo Mosaic
 Bamboo Mosaic Slab
+Bamboo Mosaic Stairs
 Bamboo Planks
 Bamboo Pressure Plate
 Bamboo Raft
 Bamboo Sign
 Bamboo Slab
+Bamboo Stairs
 Bamboo Trapdoor
 Bane of Arthropods I
 Bane of Arthropods II
@@ -90,6 +140,7 @@ Birch Pressure Plate
 Birch Sapling
 Birch Sign
 Birch Slab
+Birch Stairs
 Birch Trapdoor
 Birch Wood
 Black Banner
@@ -107,7 +158,9 @@ Black Terracotta
 Black Wool
 Blackstone
 Blackstone Slab
+Blackstone Stairs
 Blackstone Wall
+Blade Decorated Pot
 Blade Pottery Sherd
 Blast Furnace
 Blast Protection I
@@ -151,10 +204,12 @@ Breach IV
 Bread
 Breeze Rod
 Breeze Spawn Egg
+Brewer Decorated Pot
 Brewer Pottery Sherd
 Brewing Stand
 Brick
 Brick Slab
+Brick Stairs
 Brick Wall
 Bricks
 Brown Banner
@@ -179,6 +234,7 @@ Bubble Coral Fan
 Bucket
 Budding Amethyst
 Bundle
+Burn Decorated Pot
 Burn Pottery Sherd
 Cactus
 Cake
@@ -216,6 +272,7 @@ Cherry Pressure Plate
 Cherry Sapling
 Cherry Sign
 Cherry Slab
+Cherry Stairs
 Cherry Trapdoor
 Cherry Wood
 Chest
@@ -247,9 +304,11 @@ Coarse Dirt
 Coast Armor Trim Smithing Template
 Cobbled Deepslate
 Cobbled Deepslate Slab
+Cobbled Deepslate Stairs
 Cobbled Deepslate Wall
 Cobblestone
 Cobblestone Slab
+Cobblestone Stairs
 Cobblestone Wall
 Cobweb
 Cocoa Beans
@@ -302,6 +361,7 @@ Crimson Pressure Plate
 Crimson Roots
 Crimson Sign
 Crimson Slab
+Crimson Stairs
 Crimson Stem
 Crimson Trapdoor
 Crossbow
@@ -310,6 +370,7 @@ Curse of Binding I
 Curse of Vanishing I
 Cut Copper
 Cut Copper Slab
+Cut Copper Stairs
 Cut Red Sandstone
 Cut Red Sandstone Slab
 Cut Sandstone
@@ -329,6 +390,7 @@ Cyan Terracotta
 Cyan Wool
 Damaged Anvil
 Dandelion
+Danger Decorated Pot
 Danger Pottery Sherd
 Dark Oak Boat
 Dark Oak Button
@@ -344,10 +406,12 @@ Dark Oak Pressure Plate
 Dark Oak Sapling
 Dark Oak Sign
 Dark Oak Slab
+Dark Oak Stairs
 Dark Oak Trapdoor
 Dark Oak Wood
 Dark Prismarine
 Dark Prismarine Slab
+Dark Prismarine Stairs
 Daylight Detector
 Dead Brain Coral
 Dead Brain Coral Block
@@ -369,6 +433,7 @@ Debug Stick
 Decorated Pot
 Deepslate
 Deepslate Brick Slab
+Deepslate Brick Stairs
 Deepslate Brick Wall
 Deepslate Bricks
 Deepslate Coal Ore
@@ -380,8 +445,14 @@ Deepslate Iron Ore
 Deepslate Lapis Ore
 Deepslate Redstone Ore
 Deepslate Tile Slab
+Deepslate Tile Stairs
 Deepslate Tile Wall
 Deepslate Tiles
+Density I
+Density II
+Density III
+Density IV
+Density V
 Depth Strider I
 Depth Strider II
 Depth Strider III
@@ -401,6 +472,7 @@ Diamond Shovel
 Diamond Sword
 Diorite
 Diorite Slab
+Diorite Stairs
 Diorite Wall
 Dirt
 Dirt Path
@@ -435,6 +507,7 @@ End Portal Frame
 End Rod
 End Stone
 End Stone Brick Slab
+End Stone Brick Stairs
 End Stone Brick Wall
 End Stone Bricks
 Ender Chest
@@ -445,6 +518,7 @@ Enderman Spawn Egg
 Endermite Spawn Egg
 Evoker Spawn Egg
 Experience Bottle
+Explorer Decorated Pot
 Explorer Pottery Sherd
 Exposed Chiseled Copper
 Exposed Copper
@@ -454,6 +528,7 @@ Exposed Copper Grate
 Exposed Copper Trapdoor
 Exposed Cut Copper
 Exposed Cut Copper Slab
+Exposed Cut Copper Stairs
 Eye Armor Trim Smithing Template
 Farmland
 Feather
@@ -483,6 +558,7 @@ Flint
 Flint And Steel
 Flow Armor Trim Smithing Template
 Flow Banner Pattern
+Flow Decorated Pot
 Flow Pottery Sherd
 Flower Banner Pattern
 Flower Pot
@@ -492,6 +568,7 @@ Fortune I
 Fortune II
 Fortune III
 Fox Spawn Egg
+Friend Decorated Pot
 Friend Pottery Sherd
 Frog Spawn Egg
 Frogspawn
@@ -534,6 +611,7 @@ Golden Shovel
 Golden Sword
 Granite
 Granite Slab
+Granite Stairs
 Granite Wall
 Grass Block
 Gravel
@@ -567,11 +645,14 @@ Grindstone
 Guardian Spawn Egg
 Gunpowder
 Guster Banner Pattern
+Guster Decorated Pot
 Guster Pottery Sherd
 Hanging Roots
 Hay Block
+Heart Decorated Pot
 Heart Of The Sea
 Heart Pottery Sherd
+Heartbreak Decorated Pot
 Heartbreak Pottery Sherd
 Heavy Core
 Heavy Weighted Pressure Plate
@@ -587,6 +668,7 @@ Horn Coral Block
 Horn Coral Fan
 Horse Spawn Egg
 Host Armor Trim Smithing Template
+Howl Decorated Pot
 Howl Pottery Sherd
 Husk Spawn Egg
 Ice
@@ -640,6 +722,7 @@ Jungle Pressure Plate
 Jungle Sapling
 Jungle Sign
 Jungle Slab
+Jungle Stairs
 Jungle Trapdoor
 Jungle Wood
 Kelp
@@ -708,6 +791,52 @@ Lime Stained Glass
 Lime Stained Glass Pane
 Lime Terracotta
 Lime Wool
+Lingering Awkward Potion
+Lingering Mundane Potion
+Lingering Potion
+Lingering Potion of Fire Resistance
+Lingering Potion of Fire Resistance +
+Lingering Potion of Harming
+Lingering Potion of Harming II
+Lingering Potion of Healing
+Lingering Potion of Healing II
+Lingering Potion of Infestation
+Lingering Potion of Invisibility
+Lingering Potion of Invisibility +
+Lingering Potion of Leaping
+Lingering Potion of Leaping +
+Lingering Potion of Leaping II
+Lingering Potion of Night Vision
+Lingering Potion of Night Vision +
+Lingering Potion of Oozing
+Lingering Potion of Poison
+Lingering Potion of Poison +
+Lingering Potion of Poison II
+Lingering Potion of Regeneration
+Lingering Potion of Regeneration +
+Lingering Potion of Regeneration II
+Lingering Potion of Slow Falling
+Lingering Potion of Slow Falling +
+Lingering Potion of Slowness
+Lingering Potion of Slowness +
+Lingering Potion of Slowness IV
+Lingering Potion of Strength
+Lingering Potion of Strength +
+Lingering Potion of Strength II
+Lingering Potion of Swiftness
+Lingering Potion of Swiftness +
+Lingering Potion of Swiftness II
+Lingering Potion of Water Breathing
+Lingering Potion of Water Breathing +
+Lingering Potion of Weakness
+Lingering Potion of Weakness +
+Lingering Potion of Weaving
+Lingering Potion of Wind Charging
+Lingering Potion of the Turtle Master
+Lingering Potion of the Turtle Master +
+Lingering Potion of the Turtle Master II
+Lingering Thick Potion
+Lingering Water Bottle
 Llama Spawn Egg
 Lodestone
 Loom
@@ -755,6 +884,7 @@ Mangrove Propagule
 Mangrove Roots
 Mangrove Sign
 Mangrove Slab
+Mangrove Stairs
 Mangrove Trapdoor
 Mangrove Wood
 Map
@@ -765,6 +895,7 @@ Melon Slice
 Mending I
 Milk Bucket
 Minecart
+Miner Decorated Pot
 Miner Pottery Sherd
 Mojang Banner Pattern
 Mooshroom Spawn Egg
@@ -772,24 +903,31 @@ Moss Block
 Moss Carpet
 Mossy Cobblestone
 Mossy Cobblestone Slab
+Mossy Cobblestone Stairs
 Mossy Cobblestone Wall
 Mossy Stone Brick Slab
+Mossy Stone Brick Stairs
 Mossy Stone Brick Wall
 Mossy Stone Bricks
+Mourner Decorated Pot
 Mourner Pottery Sherd
 Mud
 Mud Brick Slab
+Mud Brick Stairs
 Mud Brick Wall
 Mud Bricks
 Muddy Mangrove Roots
 Mule Spawn Egg
 Multishot I
+Mundane Arrow
+Mundane Potion
 Mushroom Stem
 Mushroom Stew
 Music Disc Blocks
 Music Disc Cat
 Music Disc Chirp
 Music Disc Creator
+Music Disc Creator Music Box
 Music Disc Creator Music Box
 Music Disc Far
 Music Disc Mall
@@ -809,6 +947,7 @@ Nautilus Shell
 Nether Brick
 Nether Brick Fence
 Nether Brick Slab
+Nether Brick Stairs
 Nether Brick Wall
 Nether Bricks
 Nether Gold Ore
@@ -846,6 +985,7 @@ Oak Pressure Plate
 Oak Sapling
 Oak Sign
 Oak Slab
+Oak Stairs
 Oak Trapdoor
 Oak Wood
 Observer
@@ -877,6 +1017,7 @@ Oxidized Copper Grate
 Oxidized Copper Trapdoor
 Oxidized Cut Copper
 Oxidized Cut Copper Slab
+Oxidized Cut Copper Stairs
 Packed Ice
 Packed Mud
 Painting
@@ -917,6 +1058,7 @@ Piston
 Pitcher Plant
 Pitcher Pod
 Player Head
+Plenty Decorated Pot
 Plenty Pottery Sherd
 Podzol
 Pointed Dripstone
@@ -924,29 +1066,37 @@ Poisonous Potato
 Polar Bear Spawn Egg
 Polished Andesite
 Polished Andesite Slab
+Polished Andesite Stairs
 Polished Basalt
 Polished Blackstone
 Polished Blackstone Brick Slab
+Polished Blackstone Brick Stairs
 Polished Blackstone Brick Wall
 Polished Blackstone Bricks
 Polished Blackstone Button
 Polished Blackstone Pressure Plate
 Polished Blackstone Slab
+Polished Blackstone Stairs
 Polished Blackstone Wall
 Polished Deepslate
 Polished Deepslate Slab
+Polished Deepslate Stairs
 Polished Deepslate Wall
 Polished Diorite
 Polished Diorite Slab
+Polished Diorite Stairs
 Polished Granite
 Polished Granite Slab
+Polished Granite Stairs
 Polished Tuff
 Polished Tuff Slab
+Polished Tuff Stairs
 Polished Tuff Wall
 Popped Chorus Fruit
 Poppy
 Porkchop
 Potato
+Potion
 Potion of Fire Resistance
 Potion of Fire Resistance +
 Potion of Harming
@@ -985,6 +1135,9 @@ Potion of Weakness
 Potion of Weakness +
 Potion of Weaving
 Potion of Wind Charging
+Potion of the Turtle Master
+Potion of the Turtle Master +
+Potion of the Turtle Master II
 Powder Snow Bucket
 Power I
 Power II
@@ -994,11 +1147,14 @@ Power V
 Powered Rail
 Prismarine
 Prismarine Brick Slab
+Prismarine Brick Stairs
 Prismarine Bricks
 Prismarine Crystals
 Prismarine Shard
 Prismarine Slab
+Prismarine Stairs
 Prismarine Wall
+Prize Decorated Pot
 Prize Pottery Sherd
 Projectile Protection I
 Projectile Protection II
@@ -1032,11 +1188,13 @@ Purple Wool
 Purpur Block
 Purpur Pillar
 Purpur Slab
+Purpur Stairs
 Quartz
 Quartz Block
 Quartz Bricks
 Quartz Pillar
 Quartz Slab
+Quartz Stairs
 Quick Charge I
 Quick Charge II
 Quick Charge III
@@ -1066,11 +1224,13 @@ Red Glazed Terracotta
 Red Mushroom
 Red Mushroom Block
 Red Nether Brick Slab
+Red Nether Brick Stairs
 Red Nether Brick Wall
 Red Nether Bricks
 Red Sand
 Red Sandstone
 Red Sandstone Slab
+Red Sandstone Stairs
 Red Sandstone Wall
 Red Shulker Box
 Red Stained Glass
@@ -1104,8 +1264,10 @@ Salmon Spawn Egg
 Sand
 Sandstone
 Sandstone Slab
+Sandstone Stairs
 Sandstone Wall
 Scaffolding
+Scrape Decorated Pot
 Scrape Pottery Sherd
 Sculk
 Sculk Catalyst
@@ -1122,9 +1284,11 @@ Sharpness II
 Sharpness III
 Sharpness IV
 Sharpness V
+Sheaf Decorated Pot
 Sheaf Pottery Sherd
 Shears
 Sheep Spawn Egg
+Shelter Decorated Pot
 Shelter Pottery Sherd
 Shield
 Short Grass
@@ -1139,6 +1303,7 @@ Skeleton Horse Spawn Egg
 Skeleton Skull
 Skeleton Spawn Egg
 Skull Banner Pattern
+Skull Decorated Pot
 Skull Pottery Sherd
 Slime Ball
 Slime Block
@@ -1155,14 +1320,18 @@ Smoker
 Smooth Basalt
 Smooth Quartz
 Smooth Quartz Slab
+Smooth Quartz Stairs
 Smooth Red Sandstone
 Smooth Red Sandstone Slab
+Smooth Red Sandstone Stairs
 Smooth Sandstone
 Smooth Sandstone Slab
+Smooth Sandstone Stairs
 Smooth Stone
 Smooth Stone Slab
 Sniffer Egg
 Sniffer Spawn Egg
+Snort Decorated Pot
 Snort Pottery Sherd
 Snout Armor Trim Smithing Template
 Snow
@@ -1182,6 +1351,52 @@ Spectral Arrow
 Spider Eye
 Spider Spawn Egg
 Spire Armor Trim Smithing Template
+Splash Awkward Potion
+Splash Mundane Potion
+Splash Potion
+Splash Potion of Fire Resistance
+Splash Potion of Fire Resistance +
+Splash Potion of Harming
+Splash Potion of Harming II
+Splash Potion of Healing
+Splash Potion of Healing II
+Splash Potion of Infestation
+Splash Potion of Invisibility
+Splash Potion of Invisibility +
+Splash Potion of Leaping
+Splash Potion of Leaping +
+Splash Potion of Leaping II
+Splash Potion of Night Vision
+Splash Potion of Night Vision +
+Splash Potion of Oozing
+Splash Potion of Poison
+Splash Potion of Poison +
+Splash Potion of Poison II
+Splash Potion of Regeneration
+Splash Potion of Regeneration +
+Splash Potion of Regeneration II
+Splash Potion of Slow Falling
+Splash Potion of Slow Falling +
+Splash Potion of Slowness
+Splash Potion of Slowness +
+Splash Potion of Slowness IV
+Splash Potion of Strength
+Splash Potion of Strength +
+Splash Potion of Strength II
+Splash Potion of Swiftness
+Splash Potion of Swiftness +
+Splash Potion of Swiftness II
+Splash Potion of Water Breathing
+Splash Potion of Water Breathing +
+Splash Potion of Weakness
+Splash Potion of Weakness +
+Splash Potion of Weaving
+Splash Potion of Wind Charging
+Splash Potion of the Turtle Master
+Splash Potion of the Turtle Master +
+Splash Potion of the Turtle Master II
+Splash Thick Potion
+Splash Water Bottle
 Sponge
 Spore Blossom
 Spruce Boat
@@ -1198,6 +1413,7 @@ Spruce Pressure Plate
 Spruce Sapling
 Spruce Sign
 Spruce Slab
+Spruce Stairs
 Spruce Trapdoor
 Spruce Wood
 Spyglass
@@ -1207,6 +1423,7 @@ Sticky Piston
 Stone
 Stone Axe
 Stone Brick Slab
+Stone Brick Stairs
 Stone Brick Wall
 Stone Bricks
 Stone Button
@@ -1215,6 +1432,7 @@ Stone Pickaxe
 Stone Pressure Plate
 Stone Shovel
 Stone Slab
+Stone Stairs
 Stone Sword
 Stonecutter
 Stray Spawn Egg
@@ -1261,6 +1479,8 @@ Tadpole Spawn Egg
 Tall Grass
 Target
 Terracotta
+Thick Arrow
+Thick Potion
 Thorns I
 Thorns II
 Thorns III
@@ -1287,9 +1507,11 @@ Tube Coral Block
 Tube Coral Fan
 Tuff
 Tuff Brick Slab
+Tuff Brick Stairs
 Tuff Brick Wall
 Tuff Bricks
 Tuff Slab
+Tuff Stairs
 Tuff Wall
 Turtle Egg
 Turtle Helmet
@@ -1323,9 +1545,12 @@ Warped Pressure Plate
 Warped Roots
 Warped Sign
 Warped Slab
+Warped Stairs
 Warped Stem
 Warped Trapdoor
 Warped Wart Block
+Water Bottle
+Water Bottle
 Water Bucket
 Waxed Chiseled Copper
 Waxed Copper Block
@@ -1335,6 +1560,7 @@ Waxed Copper Grate
 Waxed Copper Trapdoor
 Waxed Cut Copper
 Waxed Cut Copper Slab
+Waxed Cut Copper Stairs
 Waxed Exposed Chiseled Copper
 Waxed Exposed Copper
 Waxed Exposed Copper Bulb
@@ -1343,6 +1569,7 @@ Waxed Exposed Copper Grate
 Waxed Exposed Copper Trapdoor
 Waxed Exposed Cut Copper
 Waxed Exposed Cut Copper Slab
+Waxed Exposed Cut Copper Stairs
 Waxed Oxidized Chiseled Copper
 Waxed Oxidized Copper
 Waxed Oxidized Copper Bulb
@@ -1351,6 +1578,7 @@ Waxed Oxidized Copper Grate
 Waxed Oxidized Copper Trapdoor
 Waxed Oxidized Cut Copper
 Waxed Oxidized Cut Copper Slab
+Waxed Oxidized Cut Copper Stairs
 Waxed Weathered Chiseled Copper
 Waxed Weathered Copper
 Waxed Weathered Copper Bulb
@@ -1359,6 +1587,7 @@ Waxed Weathered Copper Grate
 Waxed Weathered Copper Trapdoor
 Waxed Weathered Cut Copper
 Waxed Weathered Cut Copper Slab
+Waxed Weathered Cut Copper Stairs
 Wayfinder Armor Trim Smithing Template
 Weathered Chiseled Copper
 Weathered Copper
@@ -1368,6 +1597,7 @@ Weathered Copper Grate
 Weathered Copper Trapdoor
 Weathered Cut Copper
 Weathered Cut Copper Slab
+Weathered Cut Copper Stairs
 Weeping Vines
 Wet Sponge
 Wheat

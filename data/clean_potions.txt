@@ -1,38 +1,180 @@
-Potion of Regeneration
-Potion of Regeneration +
-Potion of Regeneration II
-Potion of Swiftness
-Potion of Swiftness +
-Potion of Swiftness II
+Arrow of Fire Resistance
+Arrow of Fire Resistance +
+Arrow of Harming
+Arrow of Harming II
+Arrow of Healing
+Arrow of Healing II
+Arrow of Infestation
+Arrow of Invisibility
+Arrow of Invisibility +
+Arrow of Leaping
+Arrow of Leaping +
+Arrow of Leaping II
+Arrow of Night Vision
+Arrow of Night Vision +
+Arrow of Oozing
+Arrow of Poison
+Arrow of Poison +
+Arrow of Poison II
+Arrow of Regeneration
+Arrow of Regeneration +
+Arrow of Regeneration II
+Arrow of Slow Falling
+Arrow of Slow Falling +
+Arrow of Slowness
+Arrow of Slowness +
+Arrow of Slowness IV
+Arrow of Strength
+Arrow of Strength +
+Arrow of Strength II
+Arrow of Swiftness
+Arrow of Swiftness +
+Arrow of Swiftness II
+Arrow of Water Breathing
+Arrow of Water Breathing +
+Arrow of Weakness
+Arrow of Weakness +
+Arrow of Weaving
+Arrow of Wind Charging
+Arrow of the Turtle Master
+Arrow of the Turtle Master +
+Arrow of the Turtle Master II
+Awkward Arrow
+Awkward Potion
+Lingering Awkward Potion
+Lingering Mundane Potion
+Lingering Potion of Fire Resistance
+Lingering Potion of Fire Resistance +
+Lingering Potion of Harming
+Lingering Potion of Harming II
+Lingering Potion of Healing
+Lingering Potion of Healing II
+Lingering Potion of Infestation
+Lingering Potion of Invisibility
+Lingering Potion of Invisibility +
+Lingering Potion of Leaping
+Lingering Potion of Leaping +
+Lingering Potion of Leaping II
+Lingering Potion of Night Vision
+Lingering Potion of Night Vision +
+Lingering Potion of Oozing
+Lingering Potion of Poison
+Lingering Potion of Poison +
+Lingering Potion of Poison II
+Lingering Potion of Regeneration
+Lingering Potion of Regeneration +
+Lingering Potion of Regeneration II
+Lingering Potion of Slow Falling
+Lingering Potion of Slow Falling +
+Lingering Potion of Slowness
+Lingering Potion of Slowness +
+Lingering Potion of Slowness IV
+Lingering Potion of Strength
+Lingering Potion of Strength +
+Lingering Potion of Strength II
+Lingering Potion of Swiftness
+Lingering Potion of Swiftness +
+Lingering Potion of Swiftness II
+Lingering Potion of Water Breathing
+Lingering Potion of Water Breathing +
+Lingering Potion of Weakness
+Lingering Potion of Weakness +
+Lingering Potion of Weaving
+Lingering Potion of Wind Charging
+Lingering Potion of the Turtle Master
+Lingering Potion of the Turtle Master +
+Lingering Potion of the Turtle Master II
+Lingering Thick Potion
+Lingering Water Bottle
+Mundane Arrow
+Mundane Potion
 Potion of Fire Resistance
 Potion of Fire Resistance +
+Potion of Harming
+Potion of Harming II
 Potion of Healing
 Potion of Healing II
-Potion of Night Vision
-Potion of Night Vision +
-Potion of Strength
-Potion of Strength +
-Potion of Strength II
+Potion of Infestation
+Potion of Invisibility
+Potion of Invisibility +
 Potion of Leaping
 Potion of Leaping +
 Potion of Leaping II
-Potion of Water Breathing
-Potion of Water Breathing +
-Potion of Invisibility
-Potion of Invisibility +
-Potion of Slow Falling
-Potion of Slow Falling +
+Potion of Night Vision
+Potion of Night Vision +
+Potion of Oozing
 Potion of Poison
 Potion of Poison +
 Potion of Poison II
-Potion of Weakness
-Potion of Weakness +
+Potion of Regeneration
+Potion of Regeneration +
+Potion of Regeneration II
+Potion of Slow Falling
+Potion of Slow Falling +
 Potion of Slowness
 Potion of Slowness +
 Potion of Slowness IV
-Potion of Harming
-Potion of Harming II
-Potion of Infestation
-Potion of Oozing
+Potion of Strength
+Potion of Strength +
+Potion of Strength II
+Potion of Swiftness
+Potion of Swiftness +
+Potion of Swiftness II
+Potion of Water Breathing
+Potion of Water Breathing +
+Potion of Weakness
+Potion of Weakness +
 Potion of Weaving
 Potion of Wind Charging
+Potion of the Turtle Master
+Potion of the Turtle Master +
+Potion of the Turtle Master II
+Splash Awkward Potion
+Splash Mundane Potion
+Splash Potion of Fire Resistance
+Splash Potion of Fire Resistance +
+Splash Potion of Harming
+Splash Potion of Harming II
+Splash Potion of Healing
+Splash Potion of Healing II
+Splash Potion of Infestation
+Splash Potion of Invisibility
+Splash Potion of Invisibility +
+Splash Potion of Leaping
+Splash Potion of Leaping +
+Splash Potion of Leaping II
+Splash Potion of Night Vision
+Splash Potion of Night Vision +
+Splash Potion of Oozing
+Splash Potion of Poison
+Splash Potion of Poison +
+Splash Potion of Poison II
+Splash Potion of Regeneration
+Splash Potion of Regeneration +
+Splash Potion of Regeneration II
+Splash Potion of Slow Falling
+Splash Potion of Slow Falling +
+Splash Potion of Slowness
+Splash Potion of Slowness +
+Splash Potion of Slowness IV
+Splash Potion of Strength
+Splash Potion of Strength +
+Splash Potion of Strength II
+Splash Potion of Swiftness
+Splash Potion of Swiftness +
+Splash Potion of Swiftness II
+Splash Potion of Water Breathing
+Splash Potion of Water Breathing +
+Splash Potion of Weakness
+Splash Potion of Weakness +
+Splash Potion of Weaving
+Splash Potion of Wind Charging
+Splash Potion of the Turtle Master
+Splash Potion of the Turtle Master +
+Splash Potion of the Turtle Master II
+Splash Thick Potion
+Splash Water Bottle
+Thick Arrow
+Thick Potion
+Water Bottle
+Water Bottle
